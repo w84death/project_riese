@@ -1,4 +1,7 @@
-project_riese
+Project Riese (codename)
 =============
 
-Codename: Project Riese; a game for TheJam.pl
+A game for TheJam.pl about the complex of Riese.
+
+More at:
+http://p1x.in/games/project_riese (not working jet)
