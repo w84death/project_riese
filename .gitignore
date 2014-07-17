@@ -2,4 +2,9 @@ tools/*
 lib/impact/*
 lib/weltmeister/*
 weltmeister.html
-game.min.js
+game.min.js.idea/
+impact/
+lib/.DS_Store
+project_riese.iml
+README.md
+.idea/
